@@ -27,4 +27,4 @@ In the past few days we have gathered 700+ extremely smart, talented, motivated 
 
 **Loyalty:** Never pull the rug out from under our users. Never even create a situation where future rug-pulling becomes possible. Make money by providing value to people who want to pay, not by holding their data hostage.
 
-**Beauty:** Put care and attention into everything we publish. Do not fall into the trap of carelessly aggregating features or letting older things rot. Focus on flows, ease of use, and visual clarity. Aim for a cohesive vision and a cohesive UX. Sometimes form is substance.
+**Beauty:** Put care and attention into everything we publish. Do not fall into the trap of carelessly aggregating features or letting older things rot. Focus on flows, cohesion, and visual clarity.
