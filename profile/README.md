@@ -10,7 +10,7 @@ Our longer-term goal is to build a thriving ecosystem of happy, productive users
 
 Our ambition is to change much of manufacturing by offering a better product. We have spent our careers trapped in walled gardens and we will break out!
 
-In the past few days we have gathered 900+ extremely smart, talented, motivated people in a Discord channel. This is a once-in-a-lifetime opportunity to make a serious impact on the world and we cannot waste it.
+In the past few weeks we have gathered 1000+ extremely smart, talented, motivated people in a Discord channel. This is a once-in-a-lifetime opportunity to make a serious impact on the world and we cannot waste it.
 
 ## Immediate Goals
 
